@@ -40,6 +40,14 @@
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/inc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/CMSIS/device&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/CMSIS/core&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM Gramajo/src/Definiciones}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM Gramajo/src/Display}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM Gramajo/src/LCD}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM Gramajo/src/Menu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM Gramajo/src/pwm}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM Gramajo/src/Teclado}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM Gramajo/src/ADC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM Gramajo/src/DAC}&quot;"/>
 								</option>
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.1656664135" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c"/>
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s.1840677768" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s"/>
